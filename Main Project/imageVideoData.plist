@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fileType</key>
+		<string>Image</string>
+		<key>fileName</key>
+		<string>1.jpg</string>
+		<key>fileThumbnail</key>
+		<string>1_thumbnail.jpg</string>
+		<key>fileFormat</key>
+		<string>jpg</string>
+	</dict>
+	<dict>
+		<key>fileType</key>
+		<string>Image</string>
+		<key>fileName</key>
+		<string>2.jpg</string>
+		<key>fileThumbnail</key>
+		<string>2_thumbnail.jpg</string>
+		<key>fileFormat</key>
+		<string>jpg</string>
+	</dict>
+	<dict>
+		<key>fileType</key>
+		<string>Video</string>
+		<key>fileName</key>
+		<string>1</string>
+		<key>fileThumbnail</key>
+		<string>3_thumbnail.jpg</string>
+		<key>fileFormat</key>
+		<string>mp4</string>
+	</dict>
+	<dict>
+		<key>fileType</key>
+		<string>Video</string>
+		<key>fileName</key>
+		<string>2</string>
+		<key>fileThumbnail</key>
+		<string>4_thumbnail.jpg</string>
+		<key>fileFormat</key>
+		<string>mp4</string>
+	</dict>
+	<dict>
+		<key>fileType</key>
+		<string>Image</string>
+		<key>fileName</key>
+		<string>5.jpg</string>
+		<key>fileThumbnail</key>
+		<string>5_thumbnail.jpg</string>
+		<key>fileFormat</key>
+		<string>jpg</string>
+	</dict>
+	<dict>
+		<key>fileType</key>
+		<string>Video</string>
+		<key>fileName</key>
+		<string>3</string>
+		<key>fileThumbnail</key>
+		<string>6_thumbnail.jpg</string>
+		<key>fileFormat</key>
+		<string>mp4</string>
+	</dict>
+</array>
+</plist>
